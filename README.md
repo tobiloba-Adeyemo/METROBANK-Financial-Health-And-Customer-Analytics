@@ -120,7 +120,6 @@ MetroBank is demonstrating stable deposit growth and balanced customer relations
 **Improve Loan Approval Rates:** With 50.4% of applications rejected due to credit score thresholds, MetroBank should explore credit education programs, flexible lending models, or alternative scoring mechanisms to expand loan accessibility without compromising risk management.  
 
 **Strengthen Multi‑Account Relationships:** 237 multi‑account holders highlight deeper engagement. Expanding bundled account offerings, loyalty rewards, and cross‑product incentives can increase this number and deepen customer stickiness.  
-
-**Enhance Credit Health:** The average credit score of 580 reflects moderate customer creditworthiness. Targeted financial literacy campaigns and credit‑building products could improve customer profiles, leading to higher loan approvals and stronger long‑term profitability.  
+  
 ---
 Thank you for reading! Leave a comment if you have any questions about the analysis.
